@@ -1,5 +1,8 @@
 # BuddyCare
 
+Click here for a demo:
+https://devpost.com/software/buddycare
+
 Created By: Tyler Nguyen, Sharon Zou, Fiona Mei
 
 To run our code:
